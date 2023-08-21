@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">androidNFCHandler</string>
+    <string name="errorMessage">An error occured: </string>
+    <string name="tagWasDetected">An NFC tag was detected 🙂</string>
+    <string name="waitingForTag">Waiting for an NFC tag</string>
 </resources>
