@@ -1,0 +1,55 @@
+** TagInfo Scan (version 4.27.0) 22-Aug.-23 08:01:30 **
+Report Type: -- IC INFO ------------------------------
+
+# IC Manufacturer:
+STMicroelectronics SA
+
+# IC Type:
+M24LR04E-R
+
+-- NDEF ------------------------------
+
+# No NDEF Data Storage Populated:
+
+-- EXTRA ------------------------------
+
+# Memory Information:
+512 bytes
+* 128 blocks, with 4 bytes per block
+
+# IC Information:
+Supported read commands:
+* Single Block Read
+* Multiple Block Read
+* Get Multiple Block Security Status
+* Get System Information
+AFI supported
+DSFID supported
+IC reference value: 0x5A
+
+# TagInfo Version:
+Version :4.27.0
+
+# Device Info:
+Device Model :HUAWEI ( FIG-LX1 )
+Android OS Version :9
+
+-- FULL SCAN ------------------------------
+
+# Technologies Supported:
+ISO/IEC 15693-3 compatible
+ISO/IEC 15693-2 compatible
+
+# Android Technology Information:
+Tag description:
+* TAG: Tech [android.nfc.tech.NfcV, android.nfc.tech.NdefFormatable]
+* Maximum transceive length: 253 bytes
+
+
+# Detailed Protocol Information:
+ID: E0:02:59:B3:B7:4A:4F:41
+AFI: 0x00
+DSFID: 0xFF
+
+--------------------------------------
+
